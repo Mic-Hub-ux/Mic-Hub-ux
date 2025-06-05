@@ -28,35 +28,49 @@ I love building things that live in both the digital and physical world. Whether
 
 ## 🧠 Tech Stack
 
-| 💻 Languages | 🔧 Tools & Frameworks | 🎨 Other Skills |
-|-------------|-----------------------|-----------------|
-| C      | Arduino, ESP32         | Thinkercad Blender |
-| Python      | Thonny          | Cura |
-| Java        |        NetBeans  | Arduino IDE |
-| HTML/CSS    | Git, VS Code           | Rapid Hardware Prototyping |
+### 💻 Languages
+- **C** – used for embedded development on microcontrollers.
+- **Python** – scripting, automation, and ESP32 development.
+- **Java** – software development and academic projects using NetBeans.
+- **HTML/CSS** – basic front-end development and web prototyping.
+
+### 🧪 Programming Environments
+- **Arduino / Arduino IDE** – for controlling microcontrollers and IoT devices.
+- **ESP32** – prototyping and development with integrated WiFi/Bluetooth.
+- **Thonny** – lightweight environment for MicroPython development.
+- **NetBeans** – IDE for Java projects.
+- **Git / GitHub** – version control and collaborative workflows.
+- **Visual Studio Code** – primary editor for cross-platform projects.
+
+### 🎨 Other Skills
+- **Tinkercad** – rapid prototyping and electronic circuit simulation.
+- **Onshape** – 3D modeling, from basic to advanced designs.
+- **Cura** – slicing and preparation of 3D models for printing.
+- **Rapid Hardware Prototyping** – ability to quickly transform ideas into working physical prototypes.
+- **Video Editing** – editing and assembling footage for project documentation and presentation.
 
 ---
 
-## 🚀 Projects
 
-- 🕹️ **MIDI Controller (3D Printed)**  
-  A custom MIDI pad for Ableton, fully printed and wired by hand.
+## 🛠️ 3D Printer Mods & Custom Prints
 
-- 🔭 **Smart IoT Surveillance Cam**  
-  Motion detection + streaming, built with ESP32-CAM.
+I actively design and fabricate custom components to enhance both my 3D printer setup and real-world applications. This includes:
 
-- 🛠️ **3D Printer Mods**  
-  Designed and printed upgrades for my own printer (cooling ducts, cable management, etc.)
+- 🔧 **Printer Upgrades**: Custom cooling ducts, cable chains, and structural improvements for improved performance and maintenance.
+- 🗝️ **Keychains & Gadgets**: Functional and decorative keychains, everyday tools, and small utility items.
+- 🏡 **Smart Garage Components**: Custom-designed guides and mounting brackets for a miniature motorized garage shutter, part of a smart home project.
+- 🧵 **Sewing Accessories**: Tailored gadgets to assist with sewing tasks, such as spool holders and thread guides.
+- 🧰 **Organizers**: Modular drawers and storage solutions for tools, components, and electronics.
 
-- 🎞️ **Video Experiments**  
-  Short content about builds, timelapses of prints, and tutorials in the making 👀
+Most parts were designed using Tinkercad and onShape on an Ender 3 S1 Pro. Some of the STL are available in the repository.
+
 
 ---
 
 
 ## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-Drop%20me%20a%20line-blue?logo=gmail)](mailto:michelecetraro@example.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@michele.3d-orange?logo=instagram)](https://instagram.com/michele.3d)
+[![Email](https://img.shields.io/badge/Email-Drop%20me%20a%20line-blue?logo=gmail)](mailto:michelecetraro9904@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@michele.3d-orange?logo=instagram)](https://www.instagram.com/michele_cetraro/)
 
 ---
