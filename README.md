@@ -1,11 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Michele Cetraro</h1>
-<h3 align="center">Computer Engineering Student • 3D Printing Geek • Visual Tinkerer</h3>
+<h3 align="center">🧱 3D Printing  🎬 Video Editing  💻 Coding Life</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/3D%20Printing-%F0%9F%9A%80-orange" />
-  <img src="https://img.shields.io/badge/Video%20Editing-%F0%9F%93%BA-blue" />
-  <img src="https://img.shields.io/badge/Coding%20Life-%E2%9C%A8-green" />
-</p>
 
 ---
 
