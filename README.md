@@ -66,6 +66,6 @@ Most parts were designed using Tinkercad and onShape on an Ender 3 S1 Pro. Some 
 ## 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-Drop%20me%20a%20line-blue?logo=gmail)](mailto:michelecetraro9904@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@michele.3d-orange?logo=instagram)](https://www.instagram.com/michele_cetraro/)
+[![Instagram](https://img.shields.io/badge/Instagram-@michele_cetraro-orange?logo=instagram)](https://www.instagram.com/michele_cetraro/)
 
 ---
