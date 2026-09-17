@@ -1,71 +1,43 @@
-<h1 align="center">Hi there 👋, I'm Michele Cetraro</h1>
-<h3 align="center">🧱 3D Printing  🎬 Video Editing  💻 Coding Life</h3>
+# Michele
 
-
----
-
-## 👨‍💻 About Me
-
-```yaml
-Name: Michele Cetraro
-Location: Italy
-Field: Computer Engineering
-Passions:
-  - 3D Printing 🖨️
-  - Video Creation 🎬
-  - Embedded Systems 🧠
-  - Rapid Prototyping ⚙️
-```
-
-I love building things that live in both the digital and physical world. Whether it's prototyping a new IoT device or editing a short film about my latest 3D print, I'm all about that creative-tech fusion.
+Master's Degree Student in Cybersecurity Engineering | Politecnico di Torino  
+Turin, Italy
 
 ---
 
-## 🧠 Tech Stack
+### Professional Summary
 
-### 💻 Languages
-- **C** – used for embedded development on microcontrollers.
-- **Python** – scripting, automation, and ESP32 development.
-- **Java** – software development and academic projects using NetBeans.
-- **HTML/CSS** – basic front-end development and web prototyping.
-
-### 🧪 Programming Environments
-- **Arduino / Arduino IDE** – for controlling microcontrollers and IoT devices.
-- **ESP32** – prototyping and development with integrated WiFi/Bluetooth.
-- **Thonny** – lightweight environment for MicroPython development.
-- **NetBeans** – IDE for Java projects.
-- **Git / GitHub** – version control and collaborative workflows.
-- **Visual Studio Code** – primary editor for cross-platform projects.
-
-### 🎨 Other Skills
-- **Tinkercad** – rapid prototyping and electronic circuit simulation.
-- **Onshape** – 3D modeling, from basic to advanced designs.
-- **Cura** – slicing and preparation of 3D models for printing.
-- **Rapid Hardware Prototyping** – ability to quickly transform ideas into working physical prototypes.
-- **Video Editing** – editing and assembling footage for project documentation and presentation.
+I am a cybersecurity engineering student at the Politecnico di Torino based in Turin, Italy, having previously completed my Bachelor's degree in Computer Engineering. My technical focus centers on low-level programming, embedded systems, hardware security, and building secure software architectures. I am an advocate for open-source development and primarily work within Linux environments.
 
 ---
 
+### Education
 
-## 🛠️ 3D Printer Mods & Custom Prints
-
-I actively design and fabricate custom components to enhance both my 3D printer setup and real-world applications. This includes:
-
-- 🔧 **Printer Upgrades**: Custom cooling ducts, cable chains, and structural improvements for improved performance and maintenance.
-- 🗝️ **Keychains & Gadgets**: Functional and decorative keychains, everyday tools, and small utility items.
-- 🏡 **Smart Garage Components**: Custom-designed guides and mounting brackets for a miniature motorized garage shutter, part of a smart home project.
-- 🧵 **Sewing Accessories**: Tailored gadgets to assist with sewing tasks, such as spool holders and thread guides.
-- 🧰 **Organizers**: Modular drawers and storage solutions for tools, components, and electronics.
-
-Most parts were designed using Tinkercad and onShape on an Ender 3 S1 Pro. Some of the STL are available in the repository.
-
+* **Master's Degree in Cybersecurity Engineering**  
+  Politecnico di Torino
+* **Bachelor's Degree in Computer Engineering**
 
 ---
 
+### Technical Competencies
 
-## 📫 Let's Connect
+* **Programming Languages:** C, C++, Python, JavaScript, Verilog
+* **Operating Systems & Tools:** Linux (Ubuntu/Debian), Git, VS Code, PlatformIO, LaTeX
+* **Core Domains:** Cybersecurity, Network Security, Embedded Systems, Hardware Design
 
-[![Email](https://img.shields.io/badge/Email-Drop%20me%20a%20line-blue?logo=gmail)](mailto:michelecetraro9904@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@michele_cetraro-orange?logo=instagram)](https://www.instagram.com/michele_cetraro/)
+---
+
+### Interests
+
+* **Embedded Systems:** Designing and prototyping small embedded hardware projects.
+* **Fabrication:** 3D modeling and 3D printing.
+* **Media:** Video editing and digital content production.
+
+---
+
+### Contact & Profiles
+
+* **GitHub:** [Mic-Hub-ux](https://github.com/Mic-Hub-ux)
+**Email:** [michelecetraro9904@gmail.com(mailto:michelecetraro9904@gmail.com)
 
 ---
