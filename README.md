@@ -15,8 +15,8 @@ I am a cybersecurity engineering student at the Politecnico di Torino based in T
 
 * **Master's Degree in Cybersecurity Engineering**  
   Politecnico di Torino
-* **Bachelor's Degree in Computer Engineering** 
-  Università degli studi di Salerno
+* **Bachelor's Degree in Computer Engineering**  
+  Università degli Studi di Salerno
 
 ---
 
@@ -39,6 +39,5 @@ I am a cybersecurity engineering student at the Politecnico di Torino based in T
 ### Contact & Profiles
 
 * **GitHub:** [Mic-Hub-ux](https://github.com/Mic-Hub-ux)
-* **Email:** [michelecetraro9904@gmail.com(mailto:michelecetraro9904@gmail.com)
-
+* **Email:** [michelecetraro9904@gmail.com](mailto:michelecetraro9904@gmail.com)
 ---
